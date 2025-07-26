@@ -1,1 +1,10 @@
-
+{
+    "Projekt1": {
+        "pr_name": "Projektname1",
+        "pr_version": "1.0.0"
+    },
+    "Projekt2": {
+        "pr_name": "Projektname2",
+        "pr_version": "2.3.4"
+    }
+}
